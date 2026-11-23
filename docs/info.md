@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Este proyecto se basa en una compuerta lógica, una tabla de valores numéricos y con algebra booleana se determina qué número va a salir en el indicador LED.
 
 ## How to test
 
